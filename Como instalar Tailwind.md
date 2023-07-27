@@ -6,7 +6,7 @@ Para instalar tailwind debes ejecutar este comando en la terminal
 npm i -D tailwindcss
 ```
 
-Para el proyecto de veteriaria
+Para hacerlo de manera correcta:
 
 ```
 npm i -D tailwindcss postcss autoprefixer
